@@ -1,0 +1,22 @@
+H:\Fundam. Desenv. Software\IRPF\obj\Debug\netcoreapp2.1\IRPF.csprojAssemblyReference.cache
+H:\Fundam. Desenv. Software\IRPF\obj\Debug\netcoreapp2.1\IRPF.csproj.CoreCompileInputs.cache
+H:\Fundam. Desenv. Software\IRPF\obj\Debug\netcoreapp2.1\IRPF.AssemblyInfoInputs.cache
+H:\Fundam. Desenv. Software\IRPF\obj\Debug\netcoreapp2.1\IRPF.AssemblyInfo.cs
+H:\Fundam. Desenv. Software\IRPF\bin\Debug\netcoreapp2.1\IRPF.deps.json
+H:\Fundam. Desenv. Software\IRPF\bin\Debug\netcoreapp2.1\IRPF.runtimeconfig.json
+H:\Fundam. Desenv. Software\IRPF\bin\Debug\netcoreapp2.1\IRPF.runtimeconfig.dev.json
+H:\Fundam. Desenv. Software\IRPF\bin\Debug\netcoreapp2.1\IRPF.dll
+H:\Fundam. Desenv. Software\IRPF\bin\Debug\netcoreapp2.1\IRPF.pdb
+H:\Fundam. Desenv. Software\IRPF\obj\Debug\netcoreapp2.1\IRPF.dll
+H:\Fundam. Desenv. Software\IRPF\obj\Debug\netcoreapp2.1\IRPF.pdb
+C:\Users\denise.garcia\OneDrive - DBserver Assessoria em Sistemas de Informação Ltda\Denise\ImpostoRenda_csharp-master\ImpostoRenda_csharp-master\IRPF\obj\Debug\netcoreapp2.1\IRPF.csprojAssemblyReference.cache
+C:\Users\denise.garcia\OneDrive - DBserver Assessoria em Sistemas de Informação Ltda\Denise\ImpostoRenda_csharp-master\ImpostoRenda_csharp-master\IRPF\obj\Debug\netcoreapp2.1\IRPF.csproj.CoreCompileInputs.cache
+C:\Users\denise.garcia\OneDrive - DBserver Assessoria em Sistemas de Informação Ltda\Denise\ImpostoRenda_csharp-master\ImpostoRenda_csharp-master\IRPF\obj\Debug\netcoreapp2.1\IRPF.AssemblyInfoInputs.cache
+C:\Users\denise.garcia\OneDrive - DBserver Assessoria em Sistemas de Informação Ltda\Denise\ImpostoRenda_csharp-master\ImpostoRenda_csharp-master\IRPF\obj\Debug\netcoreapp2.1\IRPF.AssemblyInfo.cs
+C:\Users\denise.garcia\OneDrive - DBserver Assessoria em Sistemas de Informação Ltda\Denise\ImpostoRenda_csharp-master\ImpostoRenda_csharp-master\IRPF\obj\Debug\netcoreapp2.1\IRPF.dll
+C:\Users\denise.garcia\OneDrive - DBserver Assessoria em Sistemas de Informação Ltda\Denise\ImpostoRenda_csharp-master\ImpostoRenda_csharp-master\IRPF\obj\Debug\netcoreapp2.1\IRPF.pdb
+C:\Users\denise.garcia\OneDrive - DBserver Assessoria em Sistemas de Informação Ltda\Denise\ImpostoRenda_csharp-master\ImpostoRenda_csharp-master\IRPF\bin\Debug\netcoreapp2.1\IRPF.deps.json
+C:\Users\denise.garcia\OneDrive - DBserver Assessoria em Sistemas de Informação Ltda\Denise\ImpostoRenda_csharp-master\ImpostoRenda_csharp-master\IRPF\bin\Debug\netcoreapp2.1\IRPF.runtimeconfig.json
+C:\Users\denise.garcia\OneDrive - DBserver Assessoria em Sistemas de Informação Ltda\Denise\ImpostoRenda_csharp-master\ImpostoRenda_csharp-master\IRPF\bin\Debug\netcoreapp2.1\IRPF.runtimeconfig.dev.json
+C:\Users\denise.garcia\OneDrive - DBserver Assessoria em Sistemas de Informação Ltda\Denise\ImpostoRenda_csharp-master\ImpostoRenda_csharp-master\IRPF\bin\Debug\netcoreapp2.1\IRPF.dll
+C:\Users\denise.garcia\OneDrive - DBserver Assessoria em Sistemas de Informação Ltda\Denise\ImpostoRenda_csharp-master\ImpostoRenda_csharp-master\IRPF\bin\Debug\netcoreapp2.1\IRPF.pdb
